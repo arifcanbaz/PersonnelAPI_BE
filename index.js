@@ -143,7 +143,7 @@ app.all('/', (req, res) => {
                 redoc: 'http://127.0.0.1:8000/documents/redoc',
                 json: 'http://127.0.0.1:8000/documents/json',
             },
-            contact: 'contact@clarusway.com'
+            contact: 'arifcanbaz908@gmail.com'
         },
     })
 })
