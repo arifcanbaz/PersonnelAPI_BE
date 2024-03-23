@@ -139,9 +139,9 @@ app.all('/', (req, res) => {
         user: req.user,
         api: {
             documents: {
-                swagger: 'http://127.0.0.1:8000/documents/swagger',
-                redoc: 'http://127.0.0.1:8000/documents/redoc',
-                json: 'http://127.0.0.1:8000/documents/json',
+                swagger: 'https://personnel-api-be.vercel.app/documents/swagger',
+                redoc: 'https://personnel-api-be.vercel.app/documents/redoc',
+                json: 'https://personnel-api-be.vercel.app/documents/json',
             },
             contact: 'arifcanbaz908@gmail.com'
         },

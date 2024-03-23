@@ -4,10 +4,10 @@
     "version": "1.0.0",
     "title": "REST API",
     "description": "",
-    "termsOfService": "http://www.clarusway.com",
+    "termsOfService": "http://www.arifcanbaz.com",
     "contact": {
       "name": "",
-      "email": "qadir@clarusway.com"
+      "email": "arifcanbaz908@gmail.com"
     },
     "license": {
       "name": "ISC"
@@ -237,7 +237,7 @@
           "Departments"
         ],
         "summary": "List Departments",
-        "description": "  You can send query with endpoint for search[], sort[], page and limit.  <ul> Examples:  <li>URL/?<b>search[field1]=value1&search[field2]=value2</b></li>  <li>URL/?<b>sort[field1]=1&sort[field2]=-1</b></li>  <li>URL/?<b>page=2&limit=1</b></li>  </ul>  ",
+        "description": "\r  You can send query with endpoint for search[], sort[], page and limit.\r  <ul> Examples:\r  <li>URL/?<b>search[field1]=value1&search[field2]=value2</b></li>\r  <li>URL/?<b>sort[field1]=1&sort[field2]=-1</b></li>\r  <li>URL/?<b>page=2&limit=1</b></li>\r  </ul>\r  ",
         "responses": {
           "200": {
             "description": "OK"
@@ -702,7 +702,7 @@
             },
             "default": {
               "type": "number",
-              "example": 1711056159823
+              "example": 1711189011242
             }
           }
         }
